@@ -18,5 +18,5 @@
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-📧 <a href="mailto:andria.aquino@gmail.com">Email</a>
+📧 <a href="mailto:andria.aquino@gmail.com">Email</a> <br>
 💼 <a href="https://www.linkedin.com/in/andriaferreira/">LinkedIn</a>
