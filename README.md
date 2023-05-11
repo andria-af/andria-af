@@ -19,6 +19,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Ândria](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/andriaferreira/)]
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:andria.aquino@gmail.com)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-andriaferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andriaferreira/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/andriaferreira/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andria.aquino@gmail.com)](mailto:andria.aquino@gmail.com)
 [![GitHub Ândria]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/andria-af)
